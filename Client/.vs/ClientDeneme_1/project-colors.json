@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "757bcb01-a5fb-417f-a72a-bf53a8420a32": {
+      "ProjectGuid": "757bcb01-a5fb-417f-a72a-bf53a8420a32",
+      "DisplayName": "ClientDeneme_1",
+      "ColorIndex": 0
+    },
+    "67d115e0-6907-4989-ae7d-250a4e0508db": {
+      "ProjectGuid": "67d115e0-6907-4989-ae7d-250a4e0508db",
+      "DisplayName": "ClientWPF",
+      "ColorIndex": 1
+    },
+    "724ba4ce-9ddd-40da-9c21-369c7ec0aeb7": {
+      "ProjectGuid": "724ba4ce-9ddd-40da-9c21-369c7ec0aeb7",
+      "DisplayName": "ClientFORMS",
+      "ColorIndex": 2
+    },
+    "38c2c228-f743-4671-be7a-52bd98e352a5": {
+      "ProjectGuid": "38c2c228-f743-4671-be7a-52bd98e352a5",
+      "DisplayName": "FormPara",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

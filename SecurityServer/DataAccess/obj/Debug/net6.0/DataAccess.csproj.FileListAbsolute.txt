@@ -1,0 +1,17 @@
+D:\VS22 PROJELER\AtmDenemeSecurityServer\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\VS22 PROJELER\AtmDenemeSecurityServer\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\VS22 PROJELER\AtmDenemeSecurityServer\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\VS22 PROJELER\AtmDenemeSecurityServer\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+D:\VS22 PROJELER\AtmDenemeSecurityServer\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\VS22 PROJELER\AtmDenemeSecurityServer\DataAccess\bin\Debug\net6.0\Entities.dll
+D:\VS22 PROJELER\AtmDenemeSecurityServer\DataAccess\bin\Debug\net6.0\Entities.pdb
+D:\VS22 PROJELER\AtmDenemeSecurityServer\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\VS22 PROJELER\AtmDenemeSecurityServer\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS22 PROJELER\AtmDenemeSecurityServer\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\VS22 PROJELER\AtmDenemeSecurityServer\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\VS22 PROJELER\AtmDenemeSecurityServer\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\VS22 PROJELER\AtmDenemeSecurityServer\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\VS22 PROJELER\AtmDenemeSecurityServer\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\VS22 PROJELER\AtmDenemeSecurityServer\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\VS22 PROJELER\AtmDenemeSecurityServer\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\VS22 PROJELER\AtmDenemeSecurityServer\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache

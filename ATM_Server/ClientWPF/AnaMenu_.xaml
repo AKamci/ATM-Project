@@ -1,0 +1,103 @@
+﻿<Window x:Name="anamenu" x:Class="ClientWPF.AnaMenu_"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientWPF"
+        mc:Ignorable="d" WindowStartupLocation="CenterScreen" WindowState="Maximized" SizeToContent="Manual" ShowInTaskbar="False" ResizeMode="NoResize" IsTabStop="False" WindowStyle="None" Width="800" Height="400">
+
+
+
+    <Grid x:Name="grdAnaMenu" HorizontalAlignment="Stretch">
+        <Grid.Background>
+            <ImageBrush Stretch="UniformToFill" ImageSource="/canva_ArkaPlan.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="33*"/>
+            <RowDefinition Height="33*"/>
+            <RowDefinition Height="33*"/>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="82*"/>
+            <RowDefinition Height="23*"/>
+            <RowDefinition/>
+            <RowDefinition Height="55*"/>
+            <RowDefinition Height="33*"/>
+            <RowDefinition Height="33*"/>
+            <RowDefinition Height="59*"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="57*"/>
+            <ColumnDefinition Width="88*"/>
+            <ColumnDefinition Width="73*"/>
+            <ColumnDefinition Width="42*"/>
+            <ColumnDefinition Width="104*"/>
+            <ColumnDefinition Width="131*"/>
+            <ColumnDefinition Width="21*"/>
+            <ColumnDefinition Width="67*"/>
+            <ColumnDefinition Width="73*"/>
+            <ColumnDefinition Width="89*"/>
+            <ColumnDefinition Width="57*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btnparacekme"  Content="" Margin="11,0,10,0" Click="btnparacekme_Click" Grid.Column="4" Grid.ColumnSpan="3" Grid.Row="6" Grid.RowSpan="5" BorderBrush="{x:Null}">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}"
+                    BorderBrush="{TemplateBinding BorderBrush}"
+                    BorderThickness="{TemplateBinding BorderThickness}">
+                        <ContentPresenter HorizontalAlignment="Center"
+                                  VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btniade" Content="" Margin="56,0,0,0" Click="btniade_Click" Grid.RowSpan="7" Grid.Row="4" Grid.ColumnSpan="3" BorderBrush="{x:Null}">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}"
+                    BorderBrush="{TemplateBinding BorderBrush}"
+                    BorderThickness="{TemplateBinding BorderThickness}">
+                        <ContentPresenter HorizontalAlignment="Center"
+                                  VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnparayatırma" Content="" Click="btnparayatırma_Click" Grid.Column="7" Grid.ColumnSpan="3" Grid.Row="7" Grid.RowSpan="4" BorderBrush="{x:Null}">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}"
+                    BorderBrush="{TemplateBinding BorderBrush}"
+                    BorderThickness="{TemplateBinding BorderThickness}">
+                        <ContentPresenter HorizontalAlignment="Center"
+                                  VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnbakiye" Click="btnbakiye_Click" Grid.Column="4" Grid.ColumnSpan="6" Grid.Row="3" Grid.RowSpan="2" Margin="42,0,0,0" BorderBrush="{x:Null}" Foreground="{x:Null}">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}"
+                    BorderBrush="{TemplateBinding BorderBrush}"
+                    BorderThickness="{TemplateBinding BorderThickness}">
+                        <ContentPresenter HorizontalAlignment="Center"
+                                  VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

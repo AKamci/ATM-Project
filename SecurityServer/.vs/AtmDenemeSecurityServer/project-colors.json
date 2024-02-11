@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "744a8f2e-2576-4723-a85b-5cbb809efccc": {
+      "ProjectGuid": "744a8f2e-2576-4723-a85b-5cbb809efccc",
+      "DisplayName": "AtmDenemeSecurityServer",
+      "ColorIndex": 0
+    },
+    "8a3443b7-bc9d-44a5-a972-fae95049a71b": {
+      "ProjectGuid": "8a3443b7-bc9d-44a5-a972-fae95049a71b",
+      "DisplayName": "SecSer",
+      "ColorIndex": 1
+    },
+    "38658c03-4941-49f4-a8ce-f088b9a235cb": {
+      "ProjectGuid": "38658c03-4941-49f4-a8ce-f088b9a235cb",
+      "DisplayName": "SecServer2",
+      "ColorIndex": 2
+    },
+    "73b79fa1-ff87-4df9-8045-367ee1dc9ab2": {
+      "ProjectGuid": "73b79fa1-ff87-4df9-8045-367ee1dc9ab2",
+      "DisplayName": "Business",
+      "ColorIndex": 3
+    },
+    "4eb35c12-b9cd-4568-9d0e-0012c63554f0": {
+      "ProjectGuid": "4eb35c12-b9cd-4568-9d0e-0012c63554f0",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 4
+    },
+    "ec998703-3847-4f05-b57e-92ed35412190": {
+      "ProjectGuid": "ec998703-3847-4f05-b57e-92ed35412190",
+      "DisplayName": "Entities",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

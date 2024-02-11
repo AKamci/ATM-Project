@@ -1,0 +1,12 @@
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Entities\bin\Release\net6.0\AtmUygulamasıDeneme.Entities.deps.json
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Entities\bin\Release\net6.0\AtmUygulamasıDeneme.Entities.dll
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Entities\bin\Release\net6.0\ref\AtmUygulamasıDeneme.Entities.dll
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Entities\bin\Release\net6.0\AtmUygulamasıDeneme.Entities.pdb
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Entities\obj\Release\net6.0\AtmUygulamasıDeneme.Entities.csproj.AssemblyReference.cache
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Entities\obj\Release\net6.0\AtmUygulamasıDeneme.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Entities\obj\Release\net6.0\AtmUygulamasıDeneme.Entities.AssemblyInfoInputs.cache
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Entities\obj\Release\net6.0\AtmUygulamasıDeneme.Entities.AssemblyInfo.cs
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Entities\obj\Release\net6.0\AtmUygulamasıDeneme.Entities.csproj.CoreCompileInputs.cache
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Entities\obj\Release\net6.0\AtmUygulamasıDeneme.Entities.dll
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Entities\obj\Release\net6.0\ref\AtmUygulamasıDeneme.Entities.dll
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Entities\obj\Release\net6.0\AtmUygulamasıDeneme.Entities.pdb

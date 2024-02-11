@@ -1,0 +1,17 @@
+Kullanıcı,8888 Numaralı Kart İle 17.07.2023 09:24:58 Tarihinde Sisteme Giriş İzni İstedi
+Kullanıcı,8888 Numaralı Kart İle 17.07.2023 09:43:41 Tarihinde Sisteme Giriş İzni İstedi
+Kullanıcı,8888 Numaralı Kart İle 17.07.2023 09:47:48 Tarihinde Sisteme Giriş İzni İstedi
+Kullanıcı,8888 Numaralı Kart İle 17.07.2023 09:48:23 Tarihinde Sisteme Giriş İzni İstedi
+Kullanıcı,8888 Numaralı Kart İle 17.07.2023 09:58:14 Tarihinde Sisteme Giriş İzni İstedi
+Kullanıcı,8888 Numaralı Kart İle 17.07.2023 09:59:25 Tarihinde Sisteme Giriş İzni İstedi
+Kullanıcı,8888 Numaralı Kart İle 17.07.2023 10:13:36 Tarihinde Sisteme Giriş İzni İstedi
+Kullanıcı,8888 Numaralı Kart İle 17.07.2023 10:21:46 Tarihinde Sisteme Giriş İzni İstedi
+Kullanıcı,8888 Numaralı Kart İle 17.07.2023 10:21:53 Tarihinde Sisteme Giriş Yaptı
+Kullanıcı,8888 Numaralı Kart İle 17.07.2023 10:34:02 Tarihinde Sisteme Giriş İzni İstedi
+Kullanıcı,8888 Numaralı Kart İle 17.07.2023 10:34:09 Tarihinde Sisteme Giriş Yaptı
+Kullanıcı,8888 Numaralı Kart İle 17.07.2023 10:39:23 Tarihinde Sisteme Giriş İzni İstedi
+Kullanıcı,8888 Numaralı Kart İle 17.07.2023 10:39:29 Tarihinde Sisteme Giriş Yaptı
+Kullanıcı,8888 Numaralı Kart İle 17.07.2023 10:41:51 Tarihinde Sisteme Giriş İzni İstedi
+Kullanıcı,8888 Numaralı Kart İle 17.07.2023 10:42:03 Tarihinde Sisteme Giriş Yaptı
+Kullanıcı,8888 Numaralı Kart İle 17.07.2023 10:44:51 Tarihinde Sisteme Giriş İzni İstedi
+Kullanıcı,8888 Numaralı Kart İle 17.07.2023 10:44:58 Tarihinde Sisteme Giriş Yaptı

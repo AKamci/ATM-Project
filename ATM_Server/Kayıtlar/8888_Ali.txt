@@ -1,0 +1,20 @@
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 13.07.2023 13:23:48 Tarihinde Sisteme Giriş İzni İstedi
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 13.07.2023 13:23:53 Tarihinde Sisteme Giriş Yaptı
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 13.07.2023 13:24:01 Tarihinde 5000 TRY Tutarında Para Çekti
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 13.07.2023 13:24:09 Tarihinde 680 TRY Tutarında Para Çekti
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 13.07.2023 13:24:15 Tarihinde 1200 TRY Tutarında Para Yükledi
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 13.07.2023 13:36:33 Tarihinde Sisteme Giriş İzni İstedi
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 13.07.2023 13:36:41 Tarihinde Sisteme Giriş Yaptı
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 13.07.2023 13:38:54 Tarihinde Sisteme Giriş İzni İstedi
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 13.07.2023 13:39:05 Tarihinde Sisteme Giriş Yaptı
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 13.07.2023 13:41:27 Tarihinde Sisteme Giriş İzni İstedi
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 13.07.2023 13:41:34 Tarihinde Sisteme Giriş Yaptı
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 13.07.2023 13:41:41 Tarihinde 500 TRY Tutarında Para Çekti
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 13.07.2023 13:41:46 Tarihinde 680 TRY Tutarında Para Yükledi
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 13.07.2023 13:41:52 Tarihinde 2350 TRY Tutarında Para Çekti
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 13.07.2023 13:41:56 Tarihinde 800 TRY Tutarında Para Yükledi
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 13.07.2023 21:01:57 Tarihinde Sisteme Giriş İzni İstedi
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 13.07.2023 21:05:24 Tarihinde Sisteme Giriş İzni İstedi
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 13.07.2023 21:06:06 Tarihinde Sisteme Giriş Yaptı
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 17.07.2023 10:43:00 Tarihinde 1000 TRY Tutarında Para Çekti
+Ali İsimli Kullanıcı,8888 Numaralı Kart İle 17.07.2023 10:45:38 Tarihinde 2500 TRY Tutarında Para Çekti

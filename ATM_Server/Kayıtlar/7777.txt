@@ -1,0 +1,5 @@
+Kullanıcı,7777 Numaralı Kart İle 16.07.2023 19:25:00 Tarihinde Sisteme Giriş İzni İstedi
+Kullanıcı,7777 Numaralı Kart İle 17.07.2023 09:43:32 Tarihinde Sisteme Giriş İzni İstedi
+Kullanıcı,7777 Numaralı Kart İle 17.07.2023 09:59:33 Tarihinde Sisteme Giriş İzni İstedi
+Kullanıcı,7777 Numaralı Kart İle 17.07.2023 10:00:18 Tarihinde Sisteme Giriş İzni İstedi
+Kullanıcı,7777 Numaralı Kart İle 17.07.2023 10:21:40 Tarihinde Sisteme Giriş İzni İstedi

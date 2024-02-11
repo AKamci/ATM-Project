@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AnaMenu_.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BakiyeGosterme.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="IslemBasarili.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="IslemBasarisiz.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TutarGir.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TutarGirmeIki.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="YuklenmeSayfa.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AnaMenu_.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BakiyeGosterme.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="IslemBasarili.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="IslemBasarisiz.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TutarGir.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TutarGirmeIki.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="YuklenmeSayfa.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

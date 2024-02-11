@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WHdVrFaLiQICctvZyDAcFi2p3DHd92ln9RCbeRgjBec=",
+  "Source": "SecServer2",
+  "BasePath": "_content/SecServer2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

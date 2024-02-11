@@ -1,0 +1,11 @@
+D:\VS22 PROJELER\AtmDenemeSecurityServer\AtmDenemeSecurityServer\bin\Debug\net6.0\AtmDenemeSecurityServer.deps.json
+D:\VS22 PROJELER\AtmDenemeSecurityServer\AtmDenemeSecurityServer\bin\Debug\net6.0\AtmDenemeSecurityServer.dll
+D:\VS22 PROJELER\AtmDenemeSecurityServer\AtmDenemeSecurityServer\bin\Debug\net6.0\ref\AtmDenemeSecurityServer.dll
+D:\VS22 PROJELER\AtmDenemeSecurityServer\AtmDenemeSecurityServer\bin\Debug\net6.0\AtmDenemeSecurityServer.pdb
+D:\VS22 PROJELER\AtmDenemeSecurityServer\AtmDenemeSecurityServer\obj\Debug\net6.0\AtmDenemeSecurityServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS22 PROJELER\AtmDenemeSecurityServer\AtmDenemeSecurityServer\obj\Debug\net6.0\AtmDenemeSecurityServer.AssemblyInfoInputs.cache
+D:\VS22 PROJELER\AtmDenemeSecurityServer\AtmDenemeSecurityServer\obj\Debug\net6.0\AtmDenemeSecurityServer.AssemblyInfo.cs
+D:\VS22 PROJELER\AtmDenemeSecurityServer\AtmDenemeSecurityServer\obj\Debug\net6.0\AtmDenemeSecurityServer.csproj.CoreCompileInputs.cache
+D:\VS22 PROJELER\AtmDenemeSecurityServer\AtmDenemeSecurityServer\obj\Debug\net6.0\AtmDenemeSecurityServer.dll
+D:\VS22 PROJELER\AtmDenemeSecurityServer\AtmDenemeSecurityServer\obj\Debug\net6.0\ref\AtmDenemeSecurityServer.dll
+D:\VS22 PROJELER\AtmDenemeSecurityServer\AtmDenemeSecurityServer\obj\Debug\net6.0\AtmDenemeSecurityServer.pdb

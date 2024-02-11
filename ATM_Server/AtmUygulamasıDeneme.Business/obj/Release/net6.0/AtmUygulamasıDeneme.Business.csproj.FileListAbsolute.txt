@@ -1,0 +1,17 @@
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Business\bin\Release\net6.0\AtmUygulamasıDeneme.Business.deps.json
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Business\bin\Release\net6.0\AtmUygulamasıDeneme.Business.dll
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Business\bin\Release\net6.0\ref\AtmUygulamasıDeneme.Business.dll
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Business\bin\Release\net6.0\AtmUygulamasıDeneme.Business.pdb
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Business\bin\Release\net6.0\AtmUygulamasıDeneme.DataAccess.dll
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Business\bin\Release\net6.0\AtmUygulamasıDeneme.Entities.dll
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Business\bin\Release\net6.0\AtmUygulamasıDeneme.DataAccess.pdb
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Business\bin\Release\net6.0\AtmUygulamasıDeneme.Entities.pdb
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Business\obj\Release\net6.0\AtmUygulamasıDeneme.Business.csproj.AssemblyReference.cache
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Business\obj\Release\net6.0\AtmUygulamasıDeneme.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Business\obj\Release\net6.0\AtmUygulamasıDeneme.Business.AssemblyInfoInputs.cache
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Business\obj\Release\net6.0\AtmUygulamasıDeneme.Business.AssemblyInfo.cs
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Business\obj\Release\net6.0\AtmUygulamasıDeneme.Business.csproj.CoreCompileInputs.cache
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Business\obj\Release\net6.0\AtmUygulamasıDeneme.Business.csproj.CopyComplete
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Business\obj\Release\net6.0\AtmUygulamasıDeneme.Business.dll
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Business\obj\Release\net6.0\ref\AtmUygulamasıDeneme.Business.dll
+D:\VS22 PROJELER\ATM_Server_Deneme_2\AtmUygulamasıDeneme.Business\obj\Release\net6.0\AtmUygulamasıDeneme.Business.pdb

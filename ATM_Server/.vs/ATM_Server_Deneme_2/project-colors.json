@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7c773910-6432-4ce5-b24e-579e9f631e91": {
+      "ProjectGuid": "7c773910-6432-4ce5-b24e-579e9f631e91",
+      "DisplayName": "ATM_Server_Deneme_2",
+      "ColorIndex": 0
+    },
+    "da86809d-f357-439b-96fa-af72932a7aab": {
+      "ProjectGuid": "da86809d-f357-439b-96fa-af72932a7aab",
+      "DisplayName": "AtmUygulamasıDeneme.Business",
+      "ColorIndex": 1
+    },
+    "21ee66fd-6d5e-43b1-b0ea-c8addd95b009": {
+      "ProjectGuid": "21ee66fd-6d5e-43b1-b0ea-c8addd95b009",
+      "DisplayName": "AtmUygulamasıDeneme.DataAccess",
+      "ColorIndex": 2
+    },
+    "02cd51e0-df9c-4f26-b79f-bb56597e2f30": {
+      "ProjectGuid": "02cd51e0-df9c-4f26-b79f-bb56597e2f30",
+      "DisplayName": "AtmUygulamasıDeneme.Entities",
+      "ColorIndex": 3
+    },
+    "cca5b668-1f89-4676-a7ba-60c023298829": {
+      "ProjectGuid": "cca5b668-1f89-4676-a7ba-60c023298829",
+      "DisplayName": "ClientWPF",
+      "ColorIndex": 4
+    },
+    "e464bc7a-c69f-4761-84b5-e4e6bd83b953": {
+      "ProjectGuid": "e464bc7a-c69f-4761-84b5-e4e6bd83b953",
+      "DisplayName": "AtmUygulamasıDeneme.API",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    },
+    "6e1a0bd4-2b78-4c83-8a8e-63dbf9e3563b": {
+      "ProjectGuid": "6e1a0bd4-2b78-4c83-8a8e-63dbf9e3563b",
+      "DisplayName": "FormPara",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

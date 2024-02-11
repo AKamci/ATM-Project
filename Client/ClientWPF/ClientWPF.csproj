@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="arkaplan.jpg" />
+    <None Remove="BakiyeGirme.png" />
+    <None Remove="Bekleyin.jpg" />
+    <None Remove="canva_ArkaPlan.png" />
+    <None Remove="HesapBakiye.png" />
+    <None Remove="Home.png" />
+    <None Remove="islembasari.png" />
+    <None Remove="photo-1618022325802-7e5e732d97a1.jpg" />
+    <None Remove="watercolor-texture-background-free-vector.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Core" Version="1.33.0" />
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.20.0" />
+    <PackageReference Include="MySql.Data" Version="8.0.33" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="arkaplan.jpg" />
+    <Resource Include="BakiyeGirme.png" />
+    <Resource Include="Bekleyin.jpg" />
+    <Resource Include="canva_ArkaPlan.png" />
+    <Resource Include="HesapBakiye.png" />
+    <Resource Include="Home.png" />
+    <Resource Include="islembasari.png" />
+    <Resource Include="photo-1618022325802-7e5e732d97a1.jpg" />
+    <Resource Include="watercolor-texture-background-free-vector.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="BankaVideoAviV.avi">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Jsons.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="JsonBilgi\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FormPara\FormPara.csproj" />
+  </ItemGroup>
+
+</Project>

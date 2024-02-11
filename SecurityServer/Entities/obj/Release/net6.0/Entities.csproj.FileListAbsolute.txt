@@ -1,0 +1,11 @@
+D:\VS22 PROJELER\AtmDenemeSecurityServer\Entities\bin\Release\net6.0\Entities.deps.json
+D:\VS22 PROJELER\AtmDenemeSecurityServer\Entities\bin\Release\net6.0\Entities.dll
+D:\VS22 PROJELER\AtmDenemeSecurityServer\Entities\bin\Release\net6.0\ref\Entities.dll
+D:\VS22 PROJELER\AtmDenemeSecurityServer\Entities\bin\Release\net6.0\Entities.pdb
+D:\VS22 PROJELER\AtmDenemeSecurityServer\Entities\obj\Release\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS22 PROJELER\AtmDenemeSecurityServer\Entities\obj\Release\net6.0\Entities.AssemblyInfoInputs.cache
+D:\VS22 PROJELER\AtmDenemeSecurityServer\Entities\obj\Release\net6.0\Entities.AssemblyInfo.cs
+D:\VS22 PROJELER\AtmDenemeSecurityServer\Entities\obj\Release\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\VS22 PROJELER\AtmDenemeSecurityServer\Entities\obj\Release\net6.0\Entities.dll
+D:\VS22 PROJELER\AtmDenemeSecurityServer\Entities\obj\Release\net6.0\ref\Entities.dll
+D:\VS22 PROJELER\AtmDenemeSecurityServer\Entities\obj\Release\net6.0\Entities.pdb

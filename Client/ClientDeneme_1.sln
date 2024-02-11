@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientWPF", "ClientWPF\ClientWPF.csproj", "{67D115E0-6907-4989-AE7D-250A4E0508DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormPara", "FormPara\FormPara.csproj", "{38C2C228-F743-4671-BE7A-52BD98E352A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67D115E0-6907-4989-AE7D-250A4E0508DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D115E0-6907-4989-AE7D-250A4E0508DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D115E0-6907-4989-AE7D-250A4E0508DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D115E0-6907-4989-AE7D-250A4E0508DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C2C228-F743-4671-BE7A-52BD98E352A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C2C228-F743-4671-BE7A-52BD98E352A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C2C228-F743-4671-BE7A-52BD98E352A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C2C228-F743-4671-BE7A-52BD98E352A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EACAE812-AB32-43B8-91DA-33EAA68A55EC}
+	EndGlobalSection
+EndGlobal

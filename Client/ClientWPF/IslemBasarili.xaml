@@ -1,0 +1,73 @@
+﻿<Window x:Class="ClientWPF.IslemBasarili"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientWPF"
+        mc:Ignorable="d"
+        Title="IslemBasarili" Height="450" Width="800" ResizeMode="NoResize" WindowState="Maximized" WindowStartupLocation="CenterScreen" Topmost="True" WindowStyle="None">
+    <Grid x:Name="grdBasari">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="134*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="18*"/>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="23*"/>
+            <RowDefinition Height="49*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="33*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="73*"/>
+            <ColumnDefinition Width="59*"/>
+            <ColumnDefinition Width="86*"/>
+            <ColumnDefinition Width="87*"/>
+            <ColumnDefinition Width="59*"/>
+            <ColumnDefinition Width="73*"/>
+            <ColumnDefinition Width="53*"/>
+            <ColumnDefinition Width="93*"/>
+            <ColumnDefinition Width="78*"/>
+            <ColumnDefinition Width="68*"/>
+            <ColumnDefinition Width="73*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="/islembasari.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Button x:Name="btnana" Content="" Click="btnana_Click"  Grid.Column="2" Grid.ColumnSpan="2" Grid.Row="8" Grid.RowSpan="2" Margin="0,23,0,0" BorderBrush="{x:Null}" Foreground="{x:Null}">
+            <Button.Background>
+                <ImageBrush Stretch="UniformToFill"/>
+            </Button.Background>
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}"
+                    BorderBrush="{TemplateBinding BorderBrush}"
+                    BorderThickness="{TemplateBinding BorderThickness}">
+                        <ContentPresenter HorizontalAlignment="Center"
+                                  VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btniade" Content="" Click="btniade_Click" Grid.Column="7" Grid.ColumnSpan="2" Grid.Row="9" Margin="0,2,0,0" BorderBrush="{x:Null}" Foreground="{x:Null}">
+            <Button.Background>
+                <ImageBrush Stretch="UniformToFill"/>
+            </Button.Background>
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}"
+                    BorderBrush="{TemplateBinding BorderBrush}"
+                    BorderThickness="{TemplateBinding BorderThickness}">
+                        <ContentPresenter HorizontalAlignment="Center"
+                                  VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Label x:Name="lblVeri" Content="İŞLEM BAŞARILI" Margin="41,27,5,7" FontSize="72" FontWeight="Bold" FontStyle="Italic" FontFamily="Arial" Grid.Row="1" Grid.ColumnSpan="11" Background="#00000000" Grid.RowSpan="3" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+
+    </Grid>
+</Window>

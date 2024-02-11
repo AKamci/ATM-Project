@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dm7GsSvVVCIQoeZLly+Jn6aTVekjkzADvbWL9W11Egefhg1ZJJZ1lbZ0HZ8r0vDqGCivfs9luDpoi/3cierLnw==",
+  "success": true,
+  "projectFilePath": "D:\\VS22 PROJELER\\ATM_Server_Deneme_2\\FormPara\\FormPara.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\husey\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
